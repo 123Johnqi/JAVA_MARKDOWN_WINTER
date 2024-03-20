@@ -44,3 +44,33 @@
 
 ## Math
 
+![](images/2024-03-20-15-20-56.png)
+
+## System
+
+![](images/2024-03-20-15-21-30.png)
+
+## Runtime
+
+![](images/2024-03-20-15-22-55.png)
+
+## BigDecimal
+
+![](images/2024-03-20-15-23-43.png)
+
+![](images/2024-03-20-15-23-58.png)
+
+推荐使用
+
+```java
+Double a = 0.01;
+BigDecimal a = BigDecimal.valueOf(a);
+```
+将a转换为BigDecimal型数据
+
+### 注意事项
+
+![](images/2024-03-20-15-27-17.png)
+
+
+
